@@ -1,3 +1,9 @@
+body {
+  background-image: url('../bgImage.webp');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
 .fade-out {
     animation: fadeOut ease 4s;
     -webkit-animation: fadeOut ease 4s;
