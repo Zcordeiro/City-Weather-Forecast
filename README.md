@@ -1,17 +1,43 @@
-# city-weather-app
-This is a local city weather app.
 
-## Information
-The following webpage lets you search the city you live in and it will give you the current weather as well as the next 5 day forecast.
+  # City Weather App 
 
-It was made using the openweathermap API to collect the weather information.
+  ## Description:
+  This is a local city weather app. That lets you search the current weather and the five day forcast
 
-## Screenshot of finished page 
+  ## Table of Contents:
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributions](#contributions)
+  - [Published Page](#page)
+  - [Repo](#repo)
+
+ ## Installation
+  No install needed just go to the webpage and enter your city in the search bar
+
+
+ ## Usage 
+  Enter your city in the search bar. YOu will be given the current weather and the five day forecast. You can also enter multiple cities and switch between the ones you  have previously searched
+
+
+ ## License 
+  
+  
+ 
+  
+
+
+ ## Contributions 
+  N/A
+
+ ## Screen Shot
 ![screenshot of portfolio page](./screen-shot.png)
 ![screenshot of portfolio page](./screen-shot2.png)
 
-## Link to github pages and repo
+# LINKS
 
-Published Page - https://zcordeiro.github.io/city-weather-app/
+ ## Page 
+  https://zcordeiro.github.io/city-weather-app/
 
-REPO - https://github.com/Zcordeiro/city-weather-app
+ ## Repo 
+   https://github.com/Zcordeiro/city-weather-app
