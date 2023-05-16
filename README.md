@@ -37,7 +37,7 @@
 # LINKS
 
  ## Page 
-  https://zcordeiro.github.io/city-weather-app/
+  https://zcordeiro.github.io/City-Weather-Forecast/
 
  ## Repo 
    https://github.com/Zcordeiro/city-weather-app
